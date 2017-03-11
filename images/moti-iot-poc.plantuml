@@ -1,0 +1,53 @@
+@startuml
+skinparam monochrome true
+title MOTI IoT Proof-of-Concept Components
+
+package "Gateway" {
+	node "Raspberry Pi" as pi
+}
+
+() sensor1 --> pi
+() sensor2 --> pi
+() sensor3 --> pi
+
+package "OpenShift PaaS" {
+  package "Kapua IoT Platform" {
+     component "Gateway\nEmulator" as emu
+     component "Console" as console
+     component "API" as api
+     component "Broker" as broker
+     node "ActiveMQ\nMessage\nQueue" as mq
+     database "H2\nDevice\nReposoitory" as h2
+  }
+}
+
+pi --> broker
+emu --> broker
+() "Smart Sensor" --> broker
+
+console --> h2
+broker --> mq
+broker --> h2
+api <-up- h2
+
+package "Sample Application" as app {
+  component "MQTT Client" as mqclient
+  database "Sensor Data\nDatabase" as pg
+  component "Application\nAPI" as appapi
+  component "FreeBoard\nDashboard" as dash
+}
+
+mqclient -up-> mq
+mqclient --> pg
+appapi --> pg
+dash --> appapi
+
+actor "MOTI Staff" as staff
+actor "Citizens" as citizen
+actor "IoT Device Administrator" as admin
+
+admin --> console
+staff --> dash
+citizen --> dash
+
+@enduml
