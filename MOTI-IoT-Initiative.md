@@ -60,10 +60,11 @@ IoT covers a huge range of technologies that interconnect systems – cloud to fog
 <img src="images/iot-platform-functional-arch.png" alt="IoT Platform Functional Architecture" width="100%" >
 
 Our proof-of-concept platform showcases opportunities for IoT innovation, shaping our thinking on modernizing MOTI’s IoT system as we seek opportunities to leverage our extensive MOTI cameras, sensors and data through our prototype IoT platform that will:
-•	Enable smart transportation solutions using MOTI real-time data
-•	Enable ways to disseminate MOTI weather data through open standards
-•	With sets of next generation applications to manage smart sensors
-•	Connect MOTI data with the coming wave of autonomous vehicle data
+
+* Enable smart transportation solutions using MOTI real-time data
+* Enable ways to disseminate MOTI weather data through open standards
+* With sets of next generation applications to manage smart sensors
+* Connect MOTI data with the coming wave of autonomous vehicle data
 
  
 
