@@ -40,3 +40,14 @@ Devices of interest include, but are not limited to, weather devices, accelerome
 * Device management for smart sensors
 
 As part of this challenge, we would involve our challenge partners to assist with designing and standing up our APIs in support of our modular, open-platform approach.
+
+##List of Current Sensor Types
+
+Below is a listing of the types of sensors we employ at the Ministry.
+
+|Category|Sensor Types|
+| --- | --- |
+|Road|Road and Traffic Condition Cameras<br>Road and Site Monitoring Cameras<br>Traffic Counters|
+|Seismic|Weak Motion Sensors<br>Strong Motion Sensors<br>Structural Health Monitoring<br>Geodetic
+Early Warning|
+|Weather|Air<br>Wind and Pressure<br>Precipitation and Snow<br>Precipitation and Visibility<br>Road Surfaces|
