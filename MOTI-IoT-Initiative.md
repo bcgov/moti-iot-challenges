@@ -57,7 +57,7 @@ We are conducting our trial to assess the viability of using open source IoT sof
 
 IoT covers a huge range of technologies that interconnect systems – cloud to fog. Our target architecture supports innovations in sensor networks and applications with a secure, scalable, modular IoT backend that allows IoT features to be source from multiple vendors, based on widely-adopted (mature) open standards and well-defined APIs.
 
-<img src="images/iot-platform-functional-arch.png" alt="IoT Platform Functional Architecture" width="100%" >
+<img src="images/iot-platform-functional-arch.png" alt="IoT Platform Functional Architecture" width="80%" align="middle" >
 
 Our proof-of-concept platform showcases opportunities for IoT innovation, shaping our thinking on modernizing MOTI’s IoT system as we seek opportunities to leverage our extensive MOTI cameras, sensors and data through our prototype IoT platform that will:
 
@@ -66,7 +66,7 @@ Our proof-of-concept platform showcases opportunities for IoT innovation, shapin
 * With sets of next generation applications to manage smart sensors
 * Connect MOTI data with the coming wave of autonomous vehicle data
 
-<img src="images/iot-interconnectivity.png" alt="" width="70%" align="center">
+<img src="images/iot-interconnectivity.png" alt="" width="40%" align="middle">
 
 ##ACSIS Project
 
