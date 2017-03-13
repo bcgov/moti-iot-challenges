@@ -13,6 +13,7 @@ package "Gateway" {
 package "OpenShift PaaS" {
   package "Kapua IoT Platform" {
      component "Gateway\nEmulator" as emu
+     () "Weather\nStation" as ws
      component "Console" as console
      component "API" as api
      component "Broker" as broker
@@ -21,6 +22,7 @@ package "OpenShift PaaS" {
   }
 }
 
+emu -right-> ws
 pi --> broker
 emu --> broker
 () "Smart Sensor" --> broker
@@ -46,7 +48,7 @@ actor "MOTI Staff" as staff
 actor "Citizens" as citizen
 actor "IoT Device Administrator" as admin
 
-admin --> console
+admin -left-> console
 staff --> dash
 citizen --> dash
 
