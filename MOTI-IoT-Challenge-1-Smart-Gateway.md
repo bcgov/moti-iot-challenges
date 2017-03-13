@@ -48,6 +48,5 @@ Below is a listing of the types of sensors we employ at the Ministry.
 |Category|Sensor Types|
 | --- | --- |
 |Road|Road and Traffic Condition Cameras<br>Road and Site Monitoring Cameras<br>Traffic Counters|
-|Seismic|Weak Motion Sensors<br>Strong Motion Sensors<br>Structural Health Monitoring<br>Geodetic
-Early Warning|
+|Seismic|Weak Motion Sensors<br>Strong Motion Sensors<br>Structural Health Monitoring<br>Geodetic Early Warning|
 |Weather|Air<br>Wind and Pressure<br>Precipitation and Snow<br>Precipitation and Visibility<br>Road Surfaces|
