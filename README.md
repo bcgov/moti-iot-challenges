@@ -44,7 +44,10 @@ Successful challenges will be evaluated based upon:
 The following is the layout of the information MOTI has assembled as part of this PoC about IoT and the challenges we have put together around IoT for interested collaborators. 
 
 * [MOTI's IoT Initiative](./MOTI-IoT-Initiative.md)
-* [MOTI's IoT Proof-of-Concept Approach and Architectural Overview](./MOTI-IoT-PoC-Approach.md)
+* [MOTI's IoT Proof-of-Concept Approach and Architectural Overview](https://github.com/bcgov/moti-iot-poc)
 * MOTI IoT PoC Platform: The [Eclipse Kapua Project](https://projects.eclipse.org/projects/iot.kapua)
+* [MOTI's Eclipse Kapua Fork](https://github.com/bcgov/kapua)
 * MOTI IoT PoC Gateway: The [Eclipse Kura Project](http://www.eclipse.org/kura/)
-* The MOTI IoT PoC github repository - the code developed based on Eclipse Kapua, Karu and other Open Source tools for the demo presented at the BC Tech Summit 2017.
+* The [MOTI IoT PoC github repository](https://github.com/bcgov/moti-iot-poc) contains the code developed based on Eclipse Kapua, Karu and other Open Source tools for the demo presented at the BC Tech Summit 2017.
+
+The MOTI IoT PoC is intended to be used as the basis for the BCIC/MOTI IoT Challenge collaborations.
