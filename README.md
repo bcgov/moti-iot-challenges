@@ -41,7 +41,7 @@ The following is the layout of the information MOTI has assembled as part of thi
 * [MOTI's IoT Initiative](./MOTI-IoT-Initiative.md)
 * MOTI IoT PoC Platform: The [Eclipse Kapua Project](https://projects.eclipse.org/projects/iot.kapua)
 * MOTI IoT PoC Gateway: The [Eclipse Kura Project](http://www.eclipse.org/kura/)
-* MOTI IoT Challenge 1: Smart Gateway
+* MOTI IoT [Challenge 1: Smart Gateway](./MOTI-IoT-Challenge-1-Smart-Gateway.md)
 * MOTI IoT Challenge 2: Event Stream Processing
 * MOTI IoT Challenge 3: Analytics
 * MOTI IoT Challenge 4: BC Highway Cameras
