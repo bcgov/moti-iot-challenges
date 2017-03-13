@@ -66,7 +66,7 @@ Our proof-of-concept platform showcases opportunities for IoT innovation, shapin
 * With sets of next generation applications to manage smart sensors
 * Connect MOTI data with the coming wave of autonomous vehicle data
 
- 
+<img src="images/iot-interconnectivity.png" alt="" width="70%" align="center">
 
 ##ACSIS Project
 
@@ -103,24 +103,3 @@ Early adopters of the ACSIS platform include:
 * Ministry camera systems
 * Avalanche Weather Program (AWP) cameras and sensors
 * BC Seismic Information System (BCSIMS) sensors
-
-##IoT Challenge
-
-To enhance our ability to deliver the ACSIS project, MOTI is participating in the BC Tech Summit Challenge. Based on our experiences in creating the IoT Prototype, we developed a list of key challenges that we are putting out to the BC Tech sector, with the added goal of demonstrating how the BC government can work with the tech industry to develop new technologies through open source development.
-MOTI, in partnership with the BC Innovation Council (BCIC), will fund up to five projects aimed at tackling our IoT Challenges. BC Tech organizations will be selected to go further with their ideas, with seed funding of $10,000 (each) to drive innovation. A sixth (unfunded) challenge, is an opportunity for BC’s IoT leaders to provide guidance on our strategic direction.
-
-###The IoT Proof-of-Concept Platform
-
-The MOTI IoT Proof-of-Concept (PoC) project is one of the BC Government’s many open-source initiatives hosted on GitHub. Here are some components of the platform:
-
-* IoT Platform, Device Registry, Broker and Data Store – Eclipse Kapua
-* Smart Gateways for MOTI Sensor and Camera Data – Eclipse Kura
-* Hosting at the BC Government Data Centre PaaS – Red Hat’s OpenShift
-* Data Processing and public access APIs – .NET Core running on Red Hat’s OpenShift
-* Data Presentation example – freeboard running on Red Hat’s OpenShift
-
-Data – Challenge winners will be given access to BC Government Sensor data as needed (e.g. Open511, earthquake sensors, weather station data, camera streams, etc.) and invited to base their solutions on and submit pull requests to the MOTI IoT GitHub repository.
-
-The image below presents a view of the PoC Platform and Components:
-
-![PoC Demonstration Platform and Components](./images/moti-iot-poc.png "PoC Demonstration Platform and Components")
