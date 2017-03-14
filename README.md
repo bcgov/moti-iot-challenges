@@ -18,7 +18,7 @@ The [BC Ministry of Transportation and Infrastructure](http://www.th.gov.bc.ca/)
 
 To enhance our ability to deliver a modern IoT capability, MOTI is participating in the BC Tech Summit Challenge. Based on our experiences in creating the IoT Prototype, we developed a list of key challenges that we are putting out to the BC Tech sector, with the added goal of demonstrating how the BC government can work with the tech industry to develop new technologies through open source development.
 
-MOTI, in partnership with the BC Innovation Council (BCIC), will fund up to five projects aimed at tackling our IoT Challenges. BC Tech organizations will be selected to go further with their ideas, with seed funding of $10,000 (each) to drive innovation. A sixth (unfunded) challenge, is an opportunity for BC’s IoT leaders to provide guidance on our strategic direction.
+MOTI, in partnership with the BC Innovation Council (BCIC), will fund up to five projects aimed at tackling our IoT Challenges. BC Tech organizations will be selected to go further with their ideas, with seed funding of $10,000 (each) to drive innovation. A sixth (unfunded) challenge, is an opportunity for BCâ€™s IoT leaders to provide guidance on our strategic direction.
 
 Details of the challenges can be found here:
 
@@ -46,7 +46,7 @@ The following is the layout of the information MOTI has assembled as part of thi
 * [MOTI's IoT Initiative](./MOTI-IoT-Initiative.md)
 * [MOTI's IoT Proof-of-Concept Approach and Architectural Overview](https://github.com/bcgov/moti-iot-poc)
 * MOTI IoT PoC Platform: The [Eclipse Kapua Project](https://projects.eclipse.org/projects/iot.kapua)
-* [MOTI's Eclipse Kapua Fork](https://github.com/bcgov/kapua)
+* [MOTI's Eclipse Kapua repository](https://github.com/bcgov/kapua)
 * MOTI IoT PoC Gateway: The [Eclipse Kura Project](http://www.eclipse.org/kura/)
 * The [MOTI IoT PoC github repository](https://github.com/bcgov/moti-iot-poc) contains the code developed based on Eclipse Kapua, Karu and other Open Source tools for the demo presented at the BC Tech Summit 2017.
 
