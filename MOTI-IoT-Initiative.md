@@ -6,7 +6,7 @@ _"The ministry has camera and sensor data that is tremendously valuable to the p
 
 ~ Business Sponsor Ed Miska, Executive Director Engineering Services
 
-##BC On The Move
+## BC On The Move
 
 In 2015, MOTI announced [BC on the Move](https://news.gov.bc.ca/stories/bc-launches-10-year-transportation-plan), a 10-year, $2.5-billion transportation plan that outlines critical investments and improvements throughout the province that will grow the economy, improve safety, maintain and replace aging infrastructure, support trade for BC's expanding resource sector through Canada's Asia-Pacific Gateway and improve the daily lives of British Columbians.
 
@@ -17,7 +17,7 @@ Additionally, ACSIS aligns to the Ministry's Service Plan 2015/16 to 18/19; this
 * Improve and maximize Highway Safety and Reliability
 * Enhancing the DriveBC website backend so it provides a better user experience on the front end.
 
-##Our MOTIvation
+## Our MOTIvation
 
 For many years, MOTI has operated thousands of remote devices - highway cameras, road and construction site cameras, weather stations, earthquake sensors, avalanche sensors and more. We have extensive experience with sensors, sensor data, and the use and publication of that data.
 
@@ -29,7 +29,7 @@ It is time to move forward, and key to our transformation is to significantly im
 
 For example, we envision significant citizen benefits from mobile access to camera and sensor information across the province. To provide informed choices for more efficient travel on BC highways and contribute to enhanced public safety, optimized economic activity in BC, and increased citizen trust and confidence in government.
 
-##IoT Superstructure Approach
+## IoT Superstructure Approach
 
 We have made the strategic decision to implement an open Internet of Things (IoT) solution; an IoT data collection and management system that is responsive to business needs and technology advancement. A core component of the backend system is an open IoT platform built using open standards and component-based architecture, enabling multiple solution providers to deliver data-centric solutions that increase productivity, expand services to the public, and enable smart transportation solutions.
 
@@ -45,7 +45,7 @@ Our goal is that this scalable, open, reliable, future-ready platform will impro
 
 Ultimately, this will increase platform stability as use increases; meet growing demands for transportation information; provide the capability for data analytics and information sharing; provide richer features, higher quality images and data; greater dependability; and, increase citizen benefit from open data and taxpayer investment in camera and sensor systems.
 
-###Creating the IoT Architecture Vision
+### Creating the IoT Architecture Vision
 
 The extensive IoT space provides flexibility, scalability, expandability, security, monitoring, data persistence, data consolidation, analytics, knowledge creation, device management, cost-savings, edge/fog computing and more.
 
@@ -53,13 +53,13 @@ MOTI is taking a two-step-process approach for selecting and building an IoT arc
 
 We are conducting our trial to assess the viability of using open source IoT software. The final IoT platform may be a component-based superstructure provided by a traditional vendor or open source community - we are still evaluating. W While the final vision will likely be very different from our prototype platform, we are delighted with prototype path we have taken in getting hands-on with the technology, and collaborating and learning from BC's industry leaders in the IoT space. 
 
-####IoT Platform Functional Architecture
+#### IoT Platform Functional Architecture
 
 IoT covers a huge range of technologies that interconnect systems -- cloud to fog. Our target architecture supports innovations in sensor networks and applications with a secure, scalable, modular IoT backend that allows IoT features to be source from multiple vendors, based on widely-adopted (mature) open standards and well-defined APIs.
 
 <img src="images/iot-platform-functional-arch.png" alt="IoT Platform Functional Architecture" width="80%" align="middle" >
 
-Our proof-of-concept platform showcases opportunities for IoT innovation, shaping our thinking on modernizing MOTI’s IoT system as we seek opportunities to leverage our extensive MOTI cameras, sensors and data through our prototype IoT platform that will:
+Our proof-of-concept platform showcases opportunities for IoT innovation, shaping our thinking on modernizing MOTIÂ’s IoT system as we seek opportunities to leverage our extensive MOTI cameras, sensors and data through our prototype IoT platform that will:
 
 * Enable smart transportation solutions using MOTI real-time data
 * Enable ways to disseminate MOTI weather data through open standards
@@ -68,7 +68,7 @@ Our proof-of-concept platform showcases opportunities for IoT innovation, shapin
 
 <img src="images/iot-interconnectivity.png" alt="" width="40%" align="middle">
 
-##ACSIS Project
+## ACSIS Project
 
 To meet Ministry and government strategic goals, MOTI's Information Management Branch (IMB) is managing the Advanced Camera and Sensor Information System (ACSIS) project in collaboration with the Highways Department and Business Management Services Branch (BMSB).
 
