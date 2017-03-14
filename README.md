@@ -6,15 +6,15 @@ This repository provides parties interested in participating in BCIC's IoT Chall
 
 Start here to learn about the business and technical components of the IoT Challenges.
 
-##Who is MOTI?
+## Who is MOTI?
 
 The [BC Ministry of Transportation and Infrastructure](http://www.th.gov.bc.ca/) (MOTI) plans transportation networks, provides transportation services and infrastructure, develops and implements transportation policies, and administers many related acts and regulations, as well as, federal-provincial funding programs, including the Building Canada Fund.
 
-##Who is BCIC?
+## Who is BCIC?
 
 [BC Innovation Council](http://bcic.ca/) (BCIC) encourages the development and application of advanced or innovative technologies to meet the needs of industry in BC. We accelerate technology commercialization by supporting startups and developing entrepreneurs.
 
-##IoT Challenge
+## IoT Challenge
 
 To enhance our ability to deliver a modern IoT capability, MOTI is participating in the BC Tech Summit Challenge. Based on our experiences in creating the IoT Prototype, we developed a list of key challenges that we are putting out to the BC Tech sector, with the added goal of demonstrating how the BC government can work with the tech industry to develop new technologies through open source development.
 
@@ -29,7 +29,7 @@ Details of the challenges can be found here:
 * MOTI IoT [Challenge 5: Open Innovation](./MOTI-IoT-Challenge-5-Open-Innovation.md)
 * Your Ideas: [IoT Strategic Direction](./MOTI-IoT-Your-Ideas-IoT-Strategic-Direction.md)
 
-###Challenge Evaluation Criteria
+### Challenge Evaluation Criteria
 
 Successful challenges will be evaluated based upon:
 
@@ -39,7 +39,7 @@ Successful challenges will be evaluated based upon:
 * how closely it leverages our proof-of-concept IoT platform to align with our desired use of open, widely-adopted (mature) standards that integrate with our IoT stack; 
 * and, how useful the solution is to the Ministry of Transportation and Infrastructure, BC citizens and/or the traveling public.
 
-###MOTI IoT Challenge Technical Information
+### MOTI IoT Challenge Technical Information
 
 The following is the layout of the information MOTI has assembled as part of this PoC about IoT and the challenges we have put together around IoT for interested collaborators. 
 
