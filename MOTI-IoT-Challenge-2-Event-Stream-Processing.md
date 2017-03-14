@@ -1,8 +1,8 @@
-#IoT Event Stream Processing Challenge
+# IoT Event Stream Processing Challenge
 
 The BC Ministry of Transportation and Infrastructure (MOTI) is looking to demonstrate dynamic event stream processing to evaluate and respond to camera and sensor data via our prototype IoT platform so that we can prove the technology concepts and learn from a properly defined solution.
 
-##The Challenge
+## The Challenge
 
 MOTI wants to enhance the way it evaluates the data coming from its devices, so that it can take actions like changing traffic flows, respond to road events, or send out a maintenance crew. Build a Proof of Concept (POC) to demonstrate dynamic event stream processing of sensor and camera data via MOTI’s prototype IoT platform. The POC should parse camera and sensor messages and events in real time through configurable set of rules defined by business users that allows for automated decision making.
 
@@ -10,7 +10,7 @@ We want business-user-defined rules to define event-driven results based on real
 
 This challenge is an opportunity for tech firms to discover MOTI’s needs and demonstrate innovations that MOTI should be considering when developing new capabilities to process, manage and understand IoT data.
 
-###Success Criteria
+### Success Criteria
 
 Our goal is to have data-driven events governed by business-user-configurable rules integrated with our open-source IoT platform.
 

@@ -1,8 +1,8 @@
-#IoT Smart Gateway Challenge
+# IoT Smart Gateway Challenge
 
 The BC Ministry of Transportation and Infrastructure (MOTI) is looking to enhance the successful sensor and camera systems employed by the ministry. The Internet of Things (IoT) promises a unified method to integrate and centrally manage a broad spectrum of devices within a single “source-of-truth” system to be leveraged across multiple applications, ministries and public innovations.
 
-##The Challenge
+## The Challenge
 
 MOTI needs to rapidly connect to and manage its devices so that it can monitor, replace and add devices as its business needs change. Build a Proof of Concept (POC) gateway to demonstrate integration and management of devices with the data flowing across traditional or advance communication networks. The goal is to connect with an assortment of best-of-breed, heterogeneous devices through open standards. This challenge is an opportunity for tech firms to discover MOTI’s need and demonstrate innovations that MOTI should be considering when purchasing new sensors, cameras and smart gateways.
 
@@ -22,7 +22,7 @@ Innovators who are also able to bring forth next generation connectivity solutio
 
 Of interest are devices such as, but not limited to: weather devices, accelerometers, speed signs, cameras, seismic sensors, etc.
 
-##Success Criteria
+## Success Criteria
 
 Our goals using the MOTI prototype IoT platform include:
 
@@ -41,7 +41,7 @@ Devices of interest include, but are not limited to, weather devices, accelerome
 
 As part of this challenge, we would involve our challenge partners to assist with designing and standing up our APIs in support of our modular, open-platform approach.
 
-##List of Current Sensor Types
+## List of Current Sensor Types
 
 Below is a listing of the types of sensors we employ at the Ministry.
 

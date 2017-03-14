@@ -1,14 +1,14 @@
-#IoT BC Highway Cameras Challenge
+# IoT BC Highway Cameras Challenge
 
 The BC Ministry of Transportation and Infrastructure (MOTI) is seeking a proof-of-concept (POC) to demonstrate innovative management of the B.C. highway cameras via their IoT proof of concept platform so that they can prove the technology concepts and learn from a properly defined technology model.
 
-##The Challenge
+## The Challenge
 
 MOTI would like a greater understanding of the possibilities for using modern web cameras so that it can make the smartest investment with its camera replacement program. Build a POC that demonstrates innovative use of data from traffic management and BC highway cameras, such as extensions for spatial awareness, integration with other sensors (e.g. weather), video content analysis and real-time alerting systems. This challenge is an opportunity for tech firms to discover MOTI’s needs and demonstrate innovations that MOTI should be considering when purchasing new capabilities for its camera network.
 
 B.C. has a long and successful history of providing road camera access to citizens via the DriveBC website. As MOTI continues towards an intelligent transportation system by implementing an IoT platform, there are great opportunities to not only improve the existing B.C. highway camera services (e.g. more cameras, improved uptimes, better device management), but to extend the capabilities in new and innovative ways - providing spatially-aware capabilities to support integration with other sensors (e.g. weather, Open511, traffic management systems) and adding even more services based on video content analysis. This latter capability transitions a passive camera into a real-time alerting systems for highway users, first responders, intelligent vehicles – and potentially much more.
 
-###Success Criteria
+### Success Criteria
 
 This proof-of-concept will deliver an innovative use of this camera information to demonstrate the technology and highlight new opportunities for further leveraging taxpayer investment in B.C.’s highway camera system.
 
